@@ -4,7 +4,7 @@
 
 Samosa Selector is a game, built with React, Vite, HTML, JavaScript, and CSS, that is based on an incremental game called Cookie Clicker. The goal of the game is to produce as many cookies by clicking on the Big Cookie as you can. However, in this version, instead of clicking a cookie, the user will be selecting a delicious samosa.
 
-<!-- :link: [Preview App Here](https://helpful-griffin-0a0ba5.netlify.app/) -->
+
 
 ## Gameplay
 
