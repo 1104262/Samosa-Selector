@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.samosa{
+  height: 15em;
+  padding: 1.5em;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.samosa:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.samosa:active{
+  transform: scale(0.95);
+}
+
+.container{
+  margin-top: 50px;
+  display: flex;
+}
+
+.upgrade{
+  border: 1px solid rgba(153, 153, 153, 0.497);
+  border-radius: ;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  margin-right: 25px;
+  width: 200px;
+  line-height: 0.5;
+}
