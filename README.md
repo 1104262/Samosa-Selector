@@ -13,7 +13,7 @@ The game starts out with the user having zero samosas. The user has the option t
 
 ## Project Screenshot
 
-![screenshot of completed project](https://github.com/gabrielaliera/samosa-selector/blob/master/samosa-walkthrough.gif)
+![screenshot of completed project](http://g.recordit.co/1QAxMaxwBI.gif)
 
 ## Setup
 
